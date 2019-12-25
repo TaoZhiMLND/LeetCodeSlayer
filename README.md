@@ -1,0 +1,2 @@
+# LeetCodeSlayer
+hunt the LeetCode.
